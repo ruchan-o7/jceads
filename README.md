@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jceads, known as Rüçhan in real life
 - 👀 I’m interested in mobile programming and 3D modeling stuff(sculpting, vfx, render)
-- 🌱 I’m currently learning dart and flutre
-//- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning dart and flutter
 - 📫 How to reach me : jceadsa@gmail.com or ruchanadiguzel58@gmail.com
 
 <!---
