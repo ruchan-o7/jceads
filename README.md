@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @jceads, known as Rüçhan in real life
-- 👀 I’m interested in mobile programming and 3D modeling stuff(sculpting, vfx, render)
-- 🌱 I’m currently learning dart and flutter
-- 📫 How to reach me : jceadsa@gmail.com or ruchanadiguzel58@gmail.com
+Hi 👋 My name is Rüçhan Adıgüzel
+================================
 
-<!---
-jceads/jceads is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+iOS and Flutter Develeoper (jr)
+-------------------------------
+
+I'm studying software engineering 4th year at Beykent University. My hobbies : 1- 3d modelling 2- Learning something new 3- Creating mobile app
+
+*   🌍  I'm based in Istanbul - Antalya / Turkey
+*   🖥️  See my portfolio at [Artstation](http://artstation.com/mithril07)
+*   ✉️  You can contact me at [jceadsa@gmail.com](mailto:jceadsa@gmail.com)
+*   🧠  I'm learning Flutter and iOS swift
+*   ⚡  Currently working on graduation project (iDBD)
