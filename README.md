@@ -9,8 +9,8 @@ I'm studying software engineering 4th year at Beykent University. My hobbies : 1
 * 🌍  I'm based in Istanbul - Antalya / Turkey
 * 🖥️  See my portfolio at [Artstation](http://artstation.com/mithril07)
 * ✉️  You can contact me at [jceadsa@gmail.com](mailto:jceadsa@gmail.com)
-* 🧠  I'm learning Flutter and iOS swift
-* ⚡  Currently working on graduation project (iDBD)
+* 🧠  I'm learning Flutter and js technologies. Also interest wiht computer graphics
+* ⚡  Currently working on personel projects
 
 ### Skills
 
