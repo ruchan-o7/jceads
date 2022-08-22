@@ -1,7 +1,7 @@
 Hi 👋 My name is Rüçhan Adıgüzel
 ================================
 
-iOS and Flutter Develeoper (jr)
+C#,C++,Unity,Unreal Engine,Flutter Develeoper (jr)
 -------------------------------
 
 I'm studying software engineering 4th year at Beykent University. My hobbies : 1- 3d modelling 2- Learning something new 3- Creating mobile app
@@ -11,6 +11,7 @@ I'm studying software engineering 4th year at Beykent University. My hobbies : 1
 * ✉️  You can contact me at [jceadsa@gmail.com](mailto:jceadsa@gmail.com)
 * 🧠  I'm learning Flutter and js technologies. Also interest wiht computer graphics
 * ⚡  Currently working on personel projects
+* :sleeping: Offline until next July (2023)
 
 ### Skills
 
