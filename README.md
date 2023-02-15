@@ -1,10 +1,11 @@
 Hi 👋 My name is Rüçhan Adıgüzel
 ================================
 
-C#,C++,Unity,Unreal Engine,Flutter Develeoper (jr)
+C#,Unity,Flutter Develeoper,Android Developer (kotlin)
 -------------------------------
 
-I'm studying software engineering 4th year at Beykent University. My hobbies : 1- 3d modelling 2- Learning something new 3- Creating mobile app
+I'm Ruchan, I'm software engineer. 
+My hobbies : 1- 3d modelling 2- Learning something new 3- Creating mobile app
 
 * 🌍  I'm based in Istanbul - Antalya / Turkey
 * 🖥️  See my portfolio at [Artstation](http://artstation.com/mithril07)
