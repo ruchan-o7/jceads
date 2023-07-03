@@ -12,7 +12,6 @@ My hobbies : 1- 3d modelling 2- Learning something new 3- Creating mobile app
 * ✉️  You can contact me at [jceadsa@gmail.com](mailto:jceadsa@gmail.com)
 * 🧠  I'm learning Flutter and js technologies. Also interest wiht computer graphics
 * ⚡  Currently working on personel projects
-* :sleeping: Offline until next July (2023)
 
 ### Skills
 
